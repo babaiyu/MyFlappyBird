@@ -1,4 +1,4 @@
-# Pong2D
+# My Flappy Bird
 Create Flappy Bird game using Unity
 
 you can download the game by this link bellow
